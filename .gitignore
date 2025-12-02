@@ -1,0 +1,26 @@
+# --- Virtual Environments (Local Libraries) ---
+.venv/
+venv/
+env/
+
+# --- IDE & Editor Settings (PyCharm, VS Code) ---
+.idea/
+.vscode/
+*.swp
+
+# --- Python Bytecode & Cache ---
+__pycache__/
+*.pyc
+
+# --- Operating System Files (macOS / Windows) ---
+.DS_Store
+Thumbs.db
+
+# --- Large/Binary Data Files (Optional) ---
+# We keep the CSV for the demo, but ignore large pickles or zips if they exist
+*.pkl
+*.bz2
+*.zip
+
+# Note: We are intentionally tracking the 'outputs/' folder
+# to showcase the HTML map and CSV report in the GitHub portfolio.
