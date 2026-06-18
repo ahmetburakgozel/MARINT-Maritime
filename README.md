@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Type](https://img.shields.io/badge/Type-OSINT-red)](https://en.wikipedia.org/wiki/Open-source_intelligence)
-[![Status](https://img.shields.io/badge/Status-Prototype-orange)](https://github.com/ahmetburakgozel/MARINT-Maritime-Intelligence)
+[![Status](https://img.shields.io/badge/Status-Prototype-orange)](https://github.com/condor-k/MARINT-Maritime-Intelligence)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 **MARINT** is an Open Source Intelligence (OSINT) tool designed to process AIS (Automatic Identification System) data for **Maritime Situational Awareness**. It automatically filters millions of data points to detect suspicious vessel behaviors, generate target lists, and visualize threats on an interactive tactical map.
