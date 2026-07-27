@@ -61,7 +61,7 @@ Follow these steps to run the analysis.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ahmetburakgozel/MARINT-Maritime-Intelligence.git
+git clone https://github.com/condor-k/MARINT-Maritime-Intelligence.git
 cd MARINT-Maritime-Intelligence
 ```
 
